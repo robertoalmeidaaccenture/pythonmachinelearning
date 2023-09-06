@@ -9,7 +9,7 @@
    "source": [
     "import pandas as pd\n",
     "import seaborn as sns\n",
-    "df = pd.read_csv('2019_spotify_top_50.csv', encoding='ISO-8859-1')"
+    "df = pd.read_csv('spotify_top_50.csv', encoding='ISO-8859-1')"
    ]
   },
   {
